@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vincent.open.source.taiwan@gmail.com"]
   spec.summary       = %q{convert the return value of wday method into Chinese}
   spec.description   = %q{convert the return value of wday method into Chinese}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/vincentopensourcetaiwan/wday_in_chinese"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

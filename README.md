@@ -1,6 +1,6 @@
 # WdayInChinese
 
-TODO: Write a gem description
+Returns the day of week in Chinese
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+WdayInChinese.convert(Time.now.wday)
 
 ## Contributing
 

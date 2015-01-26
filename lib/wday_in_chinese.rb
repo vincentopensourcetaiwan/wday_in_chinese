@@ -1,7 +1,7 @@
 require "wday_in_chinese/version"
 
 module WdayInChinese
-  def self.in_chinese(wday)
+  def self.convert(wday)
     case wday
       when 0
         '日'

@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = WdayInChinese::VERSION
   spec.authors       = ["Vincent Lin"]
   spec.email         = ["vincent.open.source.taiwan@gmail.com"]
-  spec.summary       = %q{convert the return value of wday method into Chinese}
-  spec.description   = %q{convert the return value of wday method into Chinese}
+  spec.summary       = %q{Returns the day of week in Chinese}
+  spec.description   = %q{Returns the day of week in Chinese}
   spec.homepage      = "https://github.com/vincentopensourcetaiwan/wday_in_chinese"
   spec.license       = "MIT"
 

@@ -19,4 +19,8 @@ module WdayInChinese
         '六'
     end
   end
+
+  def self.a_stupid_method?
+
+  end
 end
